@@ -1,0 +1,25 @@
+# Caches de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Salidas de compilacion
+dist/
+build/
+*.egg-info/
